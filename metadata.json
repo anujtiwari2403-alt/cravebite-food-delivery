@@ -1,0 +1,6 @@
+{
+  "name": "CraveBite - Delicious Food, Delivered Fast",
+  "description": "Chef-crafted artisanal meals, comforting street bites, and gourmet desserts delivered to your doorstep in under 30 mins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
